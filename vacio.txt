@@ -1,1 +1,2 @@
 creamos nuestro primer archivo de texto.
+y lo modifico solo para experimentar.
