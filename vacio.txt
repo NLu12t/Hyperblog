@@ -1,3 +1,4 @@
-creamos nuestro primer archivo de texto.
+Creamos nuestro primer archivo de texto.
 y lo modifico solo para experimentar.
-estamos super bien por ahora.
+Estamos super bien por ahora.
+Una nueva prueba...
