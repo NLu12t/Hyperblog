@@ -2,3 +2,5 @@ Creamos nuestro primer archivo de texto.
 y lo modifico solo para experimentar.
 Estamos super bien por ahora.
 Una nueva prueba...
+
+prueba traer de github al repositorio local.
