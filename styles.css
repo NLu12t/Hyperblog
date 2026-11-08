@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #c70f0f;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.post {
+    background-color: #e01818;
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 5px;
+    color: #00fff0;
+    .post-title {
+        font-size: 1.5em;
+        margin-bottom: 10px;
+    }
+}
